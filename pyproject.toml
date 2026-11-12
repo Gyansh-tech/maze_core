@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools >= 77.0.3"]
+build-backend = "setuptools.build_meta"
+
+
+[project]
+name = "Gyansh_tech"
+version = "1.0.0"
+authors = [
+  { name="Gyansh", email="Gyansh3003@gmail.com" },
+]
+description = "A package platform built for testing maze solving algorithms."
+readme = "README.md"
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/pypa/sampleproject"
