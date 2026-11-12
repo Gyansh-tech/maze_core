@@ -6,5 +6,7 @@ dist/
 build/
 .venv/
 venv/
+
+#MacOs
 .DS_Store
 **/.DS_Store
